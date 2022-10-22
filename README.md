@@ -1,1 +1,1 @@
-# go-projetcs
+# go-projects
