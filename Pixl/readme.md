@@ -10,7 +10,7 @@
 - Brush Indicator
   
 ## Utilize many features of go
-  Pointers
-  Funtion Literals/Closures
-  Module/Packages
-  Interfaces
+- Pointers
+- Funtion Literals/Closures
+- Module/Packages
+- Interfaces
