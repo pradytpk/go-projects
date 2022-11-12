@@ -1,11 +1,11 @@
 # Mailing Microservice
-Json API Server
-gRPC API Server
-gRPC API Client
-Protocol Buffers
-SQLite
-Goroutines
-CLI
+- Json API Server
+- gRPC API Server
+- gRPC API Client
+- Protocol Buffers
+- SQLite
+- Goroutines
+- CLI
 
 ## Setup
 
