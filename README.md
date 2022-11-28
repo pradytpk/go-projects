@@ -1,5 +1,6 @@
 # Go Projects
-1. A simple curd operation using golang and sql
-2. MultiThread Operation
-3. Pixl
-4. Mailing Microservice
+- Build And Structure A JSON API
+- A simple curd operation using golang and sql
+- MultiThread Operation
+- Pixl
+- Mailing Microservice
